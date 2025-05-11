@@ -3,7 +3,7 @@
 
 ## Clone the repository:
 
-   git clone https://github.com/rozan-alawar/tic_tac_toe.git]
+   git clone https://github.com/rozan-alawar/tic_tac_toe.git
    
    cd dart-tic-toe
 
